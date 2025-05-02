@@ -64,4 +64,3 @@ jupyter nbextension enable --py widgetsnbextension --sys-prefix
 ## ⚠️ Notes
 
 - 🔑 Ensure your API key has access to the `gpt-3.5-turbo` model or whichever model you're calling.
-- 📚 This project is intended for educational and prototyping purposes.
