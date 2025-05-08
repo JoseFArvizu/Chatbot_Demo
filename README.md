@@ -1,5 +1,5 @@
 
-# 🤖 Simple Chatbot using OpenAI API
+# 🤖 Chatbot using OpenAI API
 
 This project contains a simple chatbot implemented in a Jupyter Notebook using OpenAI's API. It uses a basic user interface built with IPython widgets to interact with the model and provides a foundation for experimenting with GPT-style chat functionality.
 
